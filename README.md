@@ -1,1 +1,1 @@
-# 7506-organizaci-n-de-datos
+# 7506-organizacion-de-datos
